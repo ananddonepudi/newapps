@@ -1,0 +1,29 @@
+apiVersion: v1
+entries:
+  newapps:
+  - annotations:
+      category: application
+    apiVersion: v2
+    appVersion: 1.0.0
+    created: "2026-01-28T19:02:53.3627752+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 5afef480eb613f43a6c20ac8fe0297b5b8b0987d3b98d10fd035d97a07b3cd4e
+    home: https://github.com/ananddonepudi/newapps
+    icon: https://raw.githubusercontent.com/helm/helm/main/docs/logos/helm.png
+    keywords:
+    - my-app
+    - kubernetes
+    - helm
+    - uat
+    - prod
+    maintainers:
+    - email: ananddonepudi@gmail.com
+      name: Anand
+    name: newapps
+    sources:
+    - https://github.com/ananddonepudi/newapps
+    type: application
+    urls:
+    - https://ananddonepudi.github.io/newapps/newapps-0.2.0.tgz
+    version: 0.2.0
+generated: "2026-01-28T19:02:53.3616989+05:30"
