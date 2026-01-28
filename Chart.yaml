@@ -1,0 +1,29 @@
+apiVersion: v2
+name: newapps
+description: A Helm chart for Kubernetes
+type: application
+
+# Helm chart version (MUST bump on every push)
+version: 0.2.0
+
+# Application version (Docker image version)
+appVersion: "1.0.0"
+icon: https://raw.githubusercontent.com/helm/helm/main/docs/logos/helm.png
+
+
+keywords:
+  - my-app
+  - kubernetes
+  - helm
+  - uat
+  - prod
+
+home: https://github.com/ananddonepudi/newapps
+sources:
+  - https://github.com/ananddonepudi/newapps
+maintainers:
+  - name: Anand
+    email: ananddonepudi@gmail.com
+
+annotations:
+  category: application
