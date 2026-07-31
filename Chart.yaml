@@ -17,6 +17,7 @@ keywords:
   - helm
   - uat
   - prod
+  - test
 
 home: https://github.com/ananddonepudi/newapps
 sources:
